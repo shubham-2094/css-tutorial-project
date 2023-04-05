@@ -1,0 +1,32 @@
+#id {
+  background-color: aquamarine;
+}
+.bg-blue {
+  background-color: blue;
+  color: white;
+}
+
+h1 {
+  color: red;
+}
+P.ptag {
+  background-color: bisque;
+}
+div {
+  background-color: blanchedalmond;
+}
+#red,
+h3 {
+  background-color: bisque;
+  color: red;
+}
+.blue {
+  background-color: black;
+  color: whitesmoke;
+  border: 2px solid red;
+}
+/* universal selectors */
+* {
+  margin: 0;
+  padding: 0;
+}
